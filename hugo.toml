@@ -1,0 +1,4 @@
+baseURL = "https://millennialtechprojects.netlify.app/"  # Replace with your actual Netlify URL
+languageCode = "en-us"
+title = "Millennial-Projects"
+theme = "terminal"

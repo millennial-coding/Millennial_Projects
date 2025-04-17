@@ -1,0 +1,2 @@
+run within the project root in CLI!!!
+./scripts/publish_blog.sh

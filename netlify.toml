@@ -1,0 +1,6 @@
+[build]
+  publish = "public"
+  command = "hugo"
+
+[build.environment]
+  HUGO_VERSION = "latest" # Or your desired version (you can also use "latest")
